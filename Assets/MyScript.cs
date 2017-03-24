@@ -8,6 +8,7 @@ public class MyScript : MonoBehaviour {
 	void Start () {
         print("You found the sousage");
         print("something changed");
+        print("added something else");
 	}
 	
 	// Update is called once per frame
